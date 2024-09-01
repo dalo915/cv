@@ -1,7 +1,7 @@
 ﻿{
-    "spider":"http://192.168.3.10:15689/tv/jar/Yoursmile.jar;md5;4453EEF4A37BF38F165F0993FAC28F52",
+    "spider":"https://dalo915.github.io/cv/tv/jar/Yoursmile.jar;md5;4453EEF4A37BF38F165F0993FAC28F52",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives":[{"name":"live","type":0,"url":"http://192.168.3.10:15689/tv/live/42.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	"lives":[{"name":"live","type":0,"url":"https://dalo915.github.io/cv/tv/live/42.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 	"sites": [{"key":"狐狸","name":"🦊狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 	{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"},
