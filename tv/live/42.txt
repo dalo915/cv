@@ -1,16 +1,4 @@
 ﻿📚🏊｜高中,#genre#
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-CGTN,http://live.cgtn.com/500/prog_index.m3u8
-日NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-日NHK,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-日NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-日NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-新CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-新CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新CNA,https://ytb.52sf.ga/live.m3u8?c=41
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 澳ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 澳ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 BBC_News_(720p),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -19,18 +7,10 @@ Euronews_по-русски,https://edge02.odtv.az/o1/euronews/playlist.m3u8
 美FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美FoxNews,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美FoxNews,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-FOX_News_Now_(720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox_News_Channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-美America Voice,https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
-美America Voice,America's_Voice_(720p),https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-HLN_(720p),https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-美cheddar,https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-美Trinity,http://rtmp1.abnsat.com/hls/trinity.m3u8
-美movieShpere,https://moviesphere-roku.amagi.tv/playlist1080p.m3u8
-美mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
-美WBRZ2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-美TheGrio,http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+美the grio,http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 美TippingPoint,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+HLN_(720p),https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 SC_Currents,https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 半Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
@@ -39,19 +19,16 @@ SC_Currents,https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 印Wion,http://210.210.155.35/uq2663/h/h91/index.m3u8
 印NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 印NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@1.m3u8
-韩Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-荷InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-美CMC,https://cmc-ono.amagi.tv/playlist.m3u8
-美CMC,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+德DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 乌M2,http://live.m2.tv/hls3/stream.m3u8
 阿联酋4Kurd,http://51.210.199.23/hls/stream.m3u8
 波斯Persian Music,http://51.210.199.24/hls/stream.m3u8
-
+CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+美CMC,https://cmc-ono.amagi.tv/playlist.m3u8
+美CMC,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+RTL_102.5_News,https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+	
 🏖️🚎｜港澳台,#genre#
-香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -60,14 +37,6 @@ SC_Currents,https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-翡翠,http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
-翡翠,http://r.jdshipin.com/n90gt
-翡翠,http://r.jdshipin.com/62WM7
-翡翠,http://r.jdshipin.com/qClQf
-翡翠,http://r.jdshipin.com/qrfbg
-翡翠,http://113.117.74.20:8081/hls/25/index.m3u8
-翡翠,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=1
 澳门莲花,http://120.84.96.29:808/hls/24/index.m3u8
 澳门莲花,http://120.84.96.25:808/hls/24/index.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php
