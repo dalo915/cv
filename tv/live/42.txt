@@ -1,4 +1,4 @@
-﻿📚🏊｜高中,#genre#
+﻿﻿📚🏊｜高中,#genre#
 澳ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 澳ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 BBC_News_(720p),https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -114,7 +114,7 @@ TVKU,http://103.30.1.14:8080/hls/live.m3u8
 福州广播电视台新闻综合频道1,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州广播电视台都市生活频道3,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州电视台少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?******
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 三明公共,https://stream.smntv.cn/smtv2/playlist.m3u8
 三明新闻综合,https://stream.smntv.cn/smtv1/playlist.m3u8
 建宁综合频道,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
