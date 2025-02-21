@@ -1,6 +1,7 @@
 baseURL = 'https://dalo915.github.io/'
 languageCode = 'en-us'
 title = 'HuoXingQiu'
+publishDir = 'docs'
 
 [languages.en]
 title = "**** Chen"
