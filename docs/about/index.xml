@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on ******</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on ******</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jun 2024 15:17:22 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自我介绍</title>
+      <link>http://localhost:1313/about/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Tue, 25 Jun 2024 15:17:22 +0800</pubDate>
+      <guid>http://localhost:1313/about/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</guid>
+      <description>****** **大学 软件工程硕士 多年从事过.Net、Java和vue、C、Python等前后端的开发，Nginx、Docker运维。以及软件开发管理。目前AI算法的库或框架学习和应用，如TensorFlow、PyTorch等。</description>
+    </item>
+    <item>
+      <title>Self Introduction</title>
+      <link>http://localhost:1313/about/self_introduction/</link>
+      <pubDate>Tue, 25 Jun 2024 15:14:13 +0800</pubDate>
+      <guid>http://localhost:1313/about/self_introduction/</guid>
+      <description>I am Master of Software Engineering from ******University. After graduation, I served as a computer teacher in a vocational secondary school for one year. Later, I worked in different software companies in development and management roles. I have worked on the National Land Governance Platform in *** Technology, the Water Conservancy Governance Platform in ** Information Technology, and the Securities Business Platform in ** Technology. The longest time I worked was in a foreign trade company ********** where I was responsible for IT for over ten years.</description>
+    </item>
+  </channel>
+</rss>

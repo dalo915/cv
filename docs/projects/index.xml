@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on ******</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on ******</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2024 23:07:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Property_security_management</title>
+      <link>http://localhost:1313/projects/property_security_management/</link>
+      <pubDate>Mon, 24 Jun 2024 23:07:55 +0800</pubDate>
+      <guid>http://localhost:1313/projects/property_security_management/</guid>
+      <description>Property Security Management 物业保安管理</description>
+    </item>
+  </channel>
+</rss>
