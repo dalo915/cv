@@ -22,5 +22,53 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    style: monokai
+    lineNumbers: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+    ordered: false
+theme: "PaperMod"
 
- 
+params:
+  # 主题设置
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
+  # 首页设置
+  profileMode:
+    enabled: true
+    title: "个人简历网站" 
+    subtitle: "云计算工程师 | AWS专家 | Linux爱好者"
+    imageUrl: "/images/avatar.jpg"
+    imageTitle: "个人头像"
+    buttons:
+      - name: 博客文章
+        url: "/post"
+      - name: 技术笔记
+        url: "/note"
+      - name: 关于我
+        url: "/about"
+
+  # 社交链接
+  socialIcons:
+    - name: github
+      url: "https://github.com/dalo915"
+    - name: linkedin
+      url: "your-linkedin-url"
+    - name: email
+      url: "mailto:your-email@domain.com"
+
+  # SEO优化
+  keywords: ["个人博客", "云计算", "AWS", "Linux", "技术博客"]
+  author: "你的名字"
+  
+  # 自定义CSS
+  assets:
+    css:
+      - css/custom.css
